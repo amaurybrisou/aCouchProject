@@ -1,0 +1,109 @@
+Que sont en définitive ESB and SOA
+	"Une excellente description de système-de-systèmes selon Nick Coghlan, Core Python developer"
+
+Disponible aussi en ру́сский and Português.
+
+L'acronyme ESB ainsi un autre qui lui est lié - SOA - peuvent être une source de confusion. ESB signifie Entreprise Service Bus, SOA signifie Architecture Orientée Services.
+
+Cela n'explique rien de plus; voici plus d'informations en Français simple, sans trop de langage spécialisé.
+
+Toute la vérité !
+
+Réfléchissez à ce qu'il se passe lorsque vous vous identifiez sur l'application cliente de votre banque:
+
+1. Votre nom est affiché
+2. Le niveau de votre compte bancaire
+3. Vos crédits et débits sont affichés
+4. La liste éventuelle de vos comptes communs
+5. Une liste pré-calculé de prêt attrayants suceptible de vous interesser
+
+A partir de là, Il est fort probable que toute ces informations appartiennent à différents systèmes et application, chacun d'entre eux fourni via des interface de toute sorte (HTTP,JSON, AMQP, XML, SOAP, FTP, CSV, aucune réelle importance):
+
+1. d'un CRM fonctionnant sur Linux et Oracle
+2. d'un système COBOL sur une unité centrale z/OS
+3. Un système tellement dont vous ne savez que très peu de chose, seulement qu'il préfère le format CSV avant tout
+4. d'un mixe de PhP et Ruby fonctionnant sur Windows
+5. d'une base de données PostgreSQL, de Python, Java fonctionnant sur Linux et Solaris
+
+La question désormais est de savoir comment communiquer avec les cinqs ? En définitive, vous ne savez pas.
+
+Il est fondamental d'être assuré que ce type d'environnements puissent être dimensionnés au delà d'une poigné de systèmes. Vous le les laissez pas communiquer entre eux directement.
+
+[diagram]
+
+A noter que nous ne mettons aucun processus à un niveau plus élevé. ( App1 invoque App2 et soit App3 ou App5 selon la réponse précédemment reçue de App6 afin que App4 puisse ultèrieurement récupérer les données produites par App2 mais seulement si App1 ne l'interdit pas etc.).
+
+Notez également que nous ne parlons pas de serveurs - chacun des systèmes peut fonctionner sur 10 serveurs physiques donc il y aura au moins 60 composants physiques communiquant ensemble.
+
+Pourtant, des questions apparaissent.
+
+Comment séparer les interfaces? Comment pouvez-vous planifier les déploiements? Comment coordonnez-vous les mises à jour ou les temps d'arrêt planifiés si chaque application est gérée par différentes équipes, des fournisseurs ou des départements et la moitié des développeurs originaux ne sont déjà plus là?
+
+Si vous pensez que vous pouvez gérer 6 applications, Que dire de 30 d'entre elles ?
+
+[diagram]
+
+Pouvez-vous faire face à 400? voir 2000? Chaque application peut être un écosystème unique nécessitant 10 serveurs ou autres périphériques pour fonctionner. On obtient donc 20 000 pièces mobiles diffusées à travers les continents et toutes sortes de limites techniques ou culturelles. Celles-ci sont en permanence et sans cesse désireuses d'échanger des messages, bavarder entre elles; ce sans répit, jamais. (Nous vous épargnerons un diagramme)
+
+Il ya une bonne façon de décrire cette situation. C'est le bordel!
+
+[titre] Commment en finir avec ce désordre?
+
+La première chose est d'admettre honnêtement que la situation est hors de controle. Ceci permet de chercher un remède sans se sentir trop coupable. OK, c'est arrivé, vous ne saviez pas mieux faire, mais il ya une chance de nettoyer tout ça.
+
+***Cela peut signifier un changement organisationnel l'approche de l'IT***, mais une autre étape est de se rappeler que les systèmes et les applications ne sont pas simplement créées pour pousser des données n'importe où. Ils sont destinés à soutenir les processus d'affaires, indépendamment de ce que votre entreprise est, de la banque, des enregistrements audio, dispositifs de radiolocalisation, et plus.
+
+Une fois que vous avez ces deux points clairement énoncés, vous pouvez commencer à penser à la construction ou la refonte de vos ***systèmes autour des services.***
+
+Un service est quelque chose d'intéressant, réutilisable et atomique qui est offert par un système à d'autres applications prêtes à faire un bon usage de celui-ci, mais il n'est jamais exposé directement point à point. C'est la plus courte définition significative possible.
+
+Si une fonctionnalité donnée d'un système répond à ces trois exigences, c'est-à-dire, si c'est :
+
+. Intéresant
+. Réutilisable
+. Atomique
+
+
+alors il ya une très grande chance qu'elle puisse et doive être exposé comme un service à d'autres systèmes, mais jamais directement.
+
+Parlons de l'approche IRA à travers quelques exemple :
+
+Variable	Notes
+
+Environnement 	Le CRM d'une companie d'électricité 
+Fonctionnalité 	Retourner une liste de clients qui étaient actifs au troisième trimèstre 2012 sur un portail en libre-service.
+Est ce intéressant ? 	Oui, plutôt. C'est utilisé pour générer toutes sortes de rapports et statistiques utiles.
+Est-ce réutilisable ? 	Non, pas vraiment. Bien qu'elle permette de créer des ***constructions*** de haut niveau, tels que les statistiques pour l'ensemble de l'année, il est clair qu'il n'y en aura pas un grand besoin pour l'année 2018.
+Est-ce atomique ? 	Très probablement, oui. Si il ya des services similaires pour les autres trimestres, il sera possible d'obtenir un aperçu de l'ensemble de l'année
+Comment la rendre IRA ? 	
+	. Lui faire accepter des dâtes de début et fin arbitraires au lieu d'être limité à un trimestre seulement
+	. Lui faire accepter des applications arbitraires, non pas seulement le portail, laissez l'application qui vous intéresse être un paramètre d'entré, Cela ne doit pas être codé en dur sur le portail
+
+
+
+Variable 	Note
+Environnement 	Site e-commerce
+Fonctionnalité 	Retourner toutes les informations jusqu'ici colltectées d'un client donné
+Est-ce intéressant ? 	Oui, Si vous avez accès à l'ensemble vous pourez toujours choisir ce qui vous intéresse
+Est-ce réutilisable ? 	Curieusement, pas vraiment. Il y aura très peu d'applications, le cas échéant, qui seront intéressés par chaque bit de données.
+Est-ce atomique ? 	Certainement pas. Cette imposante fonctionnalité est liée à être logiquement composé de dizaines de petites parties.
+Comment la rendre IRA ?
+	. LA diviser en petites parties. Pensez à ce qui décrit un client - ils ont leurs adresses, téléphones, produits préférés, les méthodes de contact préférées et ainsi de suite - chacun de ceux-ci devraient être transformés en un service indépendant.
+	. Utiliser l'ESB pour créer des services composites de ceux atomiques
+
+
+
+Variable 	Note
+Environnement 	Quelconque CRM, n'importe où
+Fonctionnalité 	Mettre à jour la colonne CUST_AR_ZN dans la table C_NAZ_AJ après que quelqu'un ai crée un compte
+Est-ce intéressant ? 	Pas du tout. C'est une fonction interne au CRM. Personne sain d'esprit ne veut avoir à faire a une fonctionnalité de si bas niveau.
+Est-ce réutilisable ? 	Oui, probablement. Un compte peut être crée par différent biais; cela parait donc être réutilisable.
+Est-ce atomique ?	 Il semblerai. Seulement une mise à jours d'une colonne dans une table
+Comment la rendre IRA ? Ne même pas essayer de la transformer en un service. Ce n'est pas intéressant. Personne ne veut penser à des colonnes et dee tables particulières dans un système. C'est un détail complexe d'un CRM, de sorte que même si elle est réutilisable et atomique, il ne faut pas en offrir un service. Il est de votre responsabilité et de celle du CRM de la penser, n'embêtez pas quelqu'un d'autre avec ça.
+
+
+
+
+Variable Note
+Environnement 	Un telco mobile
+Fonctionnalité 	Le remplissage d'une carte prépayée dans un système de payement

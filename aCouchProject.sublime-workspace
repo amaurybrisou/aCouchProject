@@ -1,0 +1,1464 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"countr",
+				"countryId"
+			],
+			[
+				"antonyms",
+				"antonymsObj"
+			],
+			[
+				"antonys",
+				"antonymsObj"
+			],
+			[
+				"abanda",
+				"abanderado"
+			],
+			[
+				"LeBrisou",
+				"LeBrisouBackend"
+			],
+			[
+				"diction",
+				"dictionary-api"
+			],
+			[
+				"_subsc",
+				"_subscriberTags"
+			],
+			[
+				"subscri",
+				"subscriberQueue"
+			],
+			[
+				"subscr",
+				"subscriberQueue"
+			],
+			[
+				"dictionary-",
+				"dictionary-api"
+			],
+			[
+				"dictionar",
+				"dictionary-api"
+			],
+			[
+				"dictiona",
+				"dictionary-rdbms"
+			],
+			[
+				"sequeliz",
+				"sequelize"
+			],
+			[
+				"sequelize",
+				"sequelize_plugin"
+			],
+			[
+				"be",
+				"should.be.true"
+			],
+			[
+				"ng-re",
+				"ng-repeat-end	AngularJS"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"Language",
+				"LanguageWord"
+			],
+			[
+				"c",
+				"callback"
+			],
+			[
+				"t",
+				"tables"
+			],
+			[
+				"logg",
+				"logger"
+			],
+			[
+				"L",
+				"LeBrisou-Backend-file"
+			],
+			[
+				"get",
+				"getDatabase"
+			],
+			[
+				"ge",
+				"getLogger"
+			],
+			[
+				"lo",
+				"logger"
+			],
+			[
+				"g",
+				"getDatabase"
+			],
+			[
+				"le",
+				"LeBrisou-Backend"
+			],
+			[
+				"de",
+				"Definition"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"def",
+				"def_ex"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"fil",
+				"fileName"
+			],
+			[
+				"remote",
+				"remotePeerConnection"
+			],
+			[
+				"rece",
+				"receiveChannel"
+			],
+			[
+				"remo",
+				"remotePeerConnection"
+			],
+			[
+				"cre",
+				"createPeerConnection"
+			],
+			[
+				"w",
+				"webrtc"
+			],
+			[
+				"we",
+				"webkitAudioContext"
+			],
+			[
+				"au",
+				"AudioContext"
+			],
+			[
+				"Audi",
+				"AudioContext"
+			],
+			[
+				"data",
+				"dataChannelAudio"
+			],
+			[
+				"web",
+				"webRTC"
+			],
+			[
+				"bu",
+				"buffer2"
+			],
+			[
+				"global",
+				"global_buffer"
+			],
+			[
+				"audio",
+				"audio_reader"
+			],
+			[
+				"glo",
+				"global_buffer"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"regi",
+				"register_id"
+			],
+			[
+				"po",
+				"pos_id"
+			],
+			[
+				"word",
+				"word_id"
+			],
+			[
+				"wo",
+				"word_id"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"s",
+				"synonym_id"
+			],
+			[
+				"exa",
+				"example_id"
+			],
+			[
+				"e",
+				"example_id_fk"
+			],
+			[
+				"ex",
+				"example"
+			],
+			[
+				"defi",
+				"definition"
+			],
+			[
+				"a",
+				"add_def_ex"
+			],
+			[
+				"va",
+				"validator"
+			],
+			[
+				"qu",
+				"query_string"
+			],
+			[
+				"se",
+				"serialize"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"d",
+				"definitions"
+			],
+			[
+				"input",
+				"input_optional"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"ema",
+				"email_address"
+			],
+			[
+				"Vali",
+				"validator"
+			],
+			[
+				"str",
+				"strUser"
+			],
+			[
+				"coun",
+				"country_id"
+			],
+			[
+				"ob",
+				"observableArray"
+			],
+			[
+				"obser",
+				"observableArray"
+			],
+			[
+				"st",
+				"str_data"
+			],
+			[
+				"_",
+				"_countries"
+			],
+			[
+				"err",
+				"errorThrown"
+			],
+			[
+				"j",
+				"jqXHR"
+			],
+			[
+				"_re",
+				"_re_pass_one"
+			],
+			[
+				"re_p",
+				"re_pass_three"
+			],
+			[
+				"v",
+				"viewAttached"
+			],
+			[
+				"_f",
+				"_fullname"
+			],
+			[
+				"f",
+				"fullname"
+			],
+			[
+				"co",
+				"Column"
+			],
+			[
+				"P",
+				"PersonalPage"
+			],
+			[
+				"p",
+				"personal_page"
+			],
+			[
+				"smtp",
+				"smtp_addr"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"inp",
+				"input"
+			],
+			[
+				"ou",
+				"output_required"
+			],
+			[
+				"in",
+				"invitationId"
+			],
+			[
+				"aTo",
+				"aTo_obj"
+			],
+			[
+				"aF",
+				"aFrom_obj"
+			],
+			[
+				"inn",
+				"invitations_to"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"ini",
+				"invitation"
+			],
+			[
+				"m",
+				"message"
+			],
+			[
+				"as",
+				"association_table_invitations"
+			],
+			[
+				"out",
+				"out_name"
+			],
+			[
+				"dele",
+				"deletion_id_fk"
+			],
+			[
+				"del",
+				"deletion_id_fk"
+			],
+			[
+				"A",
+				"Account"
+			],
+			[
+				"deletion",
+				"deletion_reason"
+			],
+			[
+				"delet",
+				"deletion_reason"
+			],
+			[
+				"E",
+				"Exception"
+			],
+			[
+				"ci",
+				"city"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"addr",
+				"address_id_fk"
+			],
+			[
+				"fd",
+				"fd_out"
+			],
+			[
+				"fa",
+				"fake_conn"
+			],
+			[
+				"copy_",
+				"copy_expert"
+			],
+			[
+				"conn",
+				"connect"
+			],
+			[
+				"inpu",
+				"input_required"
+			],
+			[
+				"pri",
+				"primary_key"
+			],
+			[
+				"la",
+				"language_id_fk"
+			],
+			[
+				"association_table_",
+				"association_table_friends"
+			],
+			[
+				"ac",
+				"account_id_fk"
+			],
+			[
+				"accoun",
+				"account"
+			],
+			[
+				"l",
+				"list_language"
+			],
+			[
+				"lis",
+				"list_country"
+			],
+			[
+				"sql",
+				"sqlalchemy"
+			],
+			[
+				"__",
+				"__table__"
+			],
+			[
+				"C",
+				"Country"
+			],
+			[
+				"proc",
+				"proc_count"
+			],
+			[
+				"M",
+				"MAX_PROCESS"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"pos",
+				"posix_getcwd"
+			],
+			[
+				"Ex",
+				"ExampleConcurrency"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "crcl/services/crcl_countries.py",
+			"settings":
+			{
+				"buffer_size": 7308,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "commons/base.py",
+			"settings":
+			{
+				"buffer_size": 837,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "crcl/models/language.py",
+			"settings":
+			{
+				"buffer_size": 800,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "crcl/models/country.py",
+			"settings":
+			{
+				"buffer_size": 1882,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 369.0,
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"doc",
+				"Set Syntax: JavaDoc"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"save ",
+				"Project: Save As"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/erol/python/aCouchProject/crcl/models/city.py",
+		"/home/erol/python/aCouchProject/crcl/.gitignore",
+		"/home/erol/python/aCouchProject/.gitignore",
+		"/home/erol/python/aCouchProject/crcl/README.md",
+		"/home/erol/python/aCouchProject/crcl/aCouchProject.sublime-project",
+		"/home/erol/python/aCouchProject/aCouch.sublime-project",
+		"/home/erol/python/aCouchProject/crcl/countries.py",
+		"/home/erol/python/aCouchProject/crcl/crcl_init.py",
+		"/home/erol/python/aCouchProject/social_network/aCouch_account.py",
+		"/home/erol/python/aCouchProject/social_network/aCouch_account_invitation.py",
+		"/home/erol/python/aCouchProject/social_network/aCouch_account_mail.py",
+		"/home/erol/python/aCouchProject/social_network/aCouch_database.py",
+		"/home/erol/python/crcl/models/base.py",
+		"/home/erol/python/crcl/crcl_init.py",
+		"/home/erol/python/crcl/models/city.py",
+		"/home/erol/python/crcl/models/country.py",
+		"/home/erol/python/crcl/models/language.py",
+		"/home/erol/python/crcl/models/region.py",
+		"/home/erol/python/aCouchProject/commons/base.py",
+		"/home/erol/python/crcl/README.md",
+		"/home/erol/python/crcl/resources/config/default.json",
+		"/home/erol/python/aCouchProject/crcl/models/country.py",
+		"/home/erol/python/aCouchProject/crcl/models/region.py",
+		"/home/erol/python/aCouchProject/crcl/models/language.py",
+		"/home/erol/python/aCouchProject/crcl/resources/geomap/Regions.txt",
+		"/home/erol/python/aCouchProject/crcl/resources/geomap/regions.txt",
+		"/home/erol/python/aCouchProject/crcl/models/cities.py",
+		"/home/erol/trash/canberemoved.js",
+		"/home/erol/python/aCouchProject/crcl/resources/geomap/countries.txt",
+		"/home/erol/python/aCouchProject/crcl/tests/collections/postman.json",
+		"/home/erol/python/aCouchProject/__init__.py",
+		"/home/erol/go/CouchApi/src/CouchApi/HttpServer/HttpServer",
+		"/home/erol/go/CouchApi/HttpServer",
+		"/home/erol/go/CouchApi/src/main",
+		"/home/erol/go/CouchApi/.gitignore",
+		"/home/erol/go/CouchApi/Dockerfile",
+		"/home/erol/go/CouchApi/runDocker",
+		"/home/erol/go/CouchApi/lib/Makefile",
+		"/home/erol/go/plugin/main.go",
+		"/home/erol/go/CouchApi/lib",
+		"/home/erol/go/trash/Makefile",
+		"/home/erol/nodejs/LeBrisouBackend/Dockerfile",
+		"/home/erol/.xchat2/xchat.conf",
+		"/home/erol/.xchat2/servlist_.conf",
+		"/home/erol/.xchat2/README",
+		"/home/erol/nodejs/LeBrisouBackend/LeBrisouBackend.sublime-project",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-api/handlers/delete.js",
+		"/home/erol/nodejs/puzzledge.eu/plugins/hapi-comments/hapi_comments.sublime-project",
+		"/home/erol/nodejs/LeBrisouBackend/test/delete.js",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/hapi-errors/package.json",
+		"/home/erol/nodejs/LeBrisouBackend/manifest.js",
+		"/home/erol/nodejs/LeBrisouBackend/.gitmodules",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/hapi-errors/.git",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-api/handlers/update.js",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-error/codes.js",
+		"/home/erol/nodejs/LeBrisouBackend/test/update.js",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/update/antonym.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/update/synonym-already-attach.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/update/antonym-already-attach.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/update/relative-already-attach.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/add/success-partial.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/add/success-partial-2.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/add.js",
+		"/home/erol/nodejs/LeBrisouBackend/test/servers/insertSrv.js",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-error/index.js",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/update/relative.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/update/synonym.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/get_words.js",
+		"/home/erol/nodejs/LeBrisouBackend/test/get_word_random.js",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-rdbms/index.js",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-api/handlers/utils.js",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/update/relatives-equal-word.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/get_word.js",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-api/handlers/add.js",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/hapi-sequelize/package.json",
+		"/home/erol/nodejs/LeBrisouBackend/.npmignore",
+		"/home/erol/nodejs/LeBrisouBackend/package.json",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-rdbms/LeBrisou-test.sqlite",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-rdbms/LeBrisou.sqlite",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-api/handlers/notFound.js",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-api/routes/index.js",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-api/handlers/countries.js",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-api/handlers/index.js",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-api/handlers/language.js",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-api/handlers/word.js",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-api/handlers/words.js",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-parser/index.js",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-web/routes/index.js",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-web/index.js",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/hapi-sequelize/index.js",
+		"/home/erol/nodejs/LeBrisouBackend/app.js",
+		"/home/erol/.config/sublime-text-3/Packages/User/JavascriptBeautify.sublime-settings",
+		"/home/erol/.config/sublime-text-3/Packages/User/Pretty JSON.sublime-settings",
+		"/home/erol/.config/sublime-text-3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/home/erol/.config/sublime-text-3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/home/erol/nodejs/LeBrisouBackend/test/servers/getSrv.js",
+		"/home/erol/nodejs/LeBrisouBackend/test/manifest.js",
+		"/home/erol/nodejs/LeBrisouBackend/test/get_countries.js",
+		"/home/erol/nodejs/LeBrisouBackend/test/get_languages.js",
+		"/home/erol/nodejs/LeBrisouBackend/test/path.js",
+		"/home/erol/nodejs/LeBrisouBackend/test/insertSrv.js",
+		"/home/erol/nodejs/LeBrisouBackend/test/getSrv.js",
+		"/home/erol/nodejs/LeBrisouBackend/testLeBrisou.sqlite",
+		"/home/erol/nodejs/LeBrisouBackend/testtest.sqlite",
+		"/home/erol/nodejs/LeBrisouBackend/test/test_srv.js",
+		"/home/erol/nodejs/LeBrisouBackend/test/db/test.sqlite",
+		"/home/erol/nodejs/LeBrisouBackend/test/test.sqlite",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-web/public/views/index.html",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/update/unknow-country.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/path/forbidden.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/update/countries.json",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-web/README.md",
+		"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-error/README.md",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/add/duplicate-definition.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/add/duplicate-hyperlink.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/add/success.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/add/wrong-gerund.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/add/word-equal-synonym.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/add/word-equal-relative.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/add/word-equal-antonym.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/add/unknow-synonym.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/add/unknow-relative.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/add/unknow-language.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/add/unknow-country.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/add/unknow-antonym.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/add/duplicate-example.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/update/definition-unknow-examples.json",
+		"/home/erol/nodejs/LeBrisouBackend/test/fixtures/add/word-synonym.json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/erol/python/crcl",
+			"/home/erol/python/crcl/models",
+			"/home/erol/nodejs/LeBrisouBackend/plugins",
+			"/home/erol/nodejs/LeBrisouBackend/test",
+			"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-api/handlers",
+			"/home/erol/nodejs/LeBrisouBackend/test",
+			"/home/erol/nodejs/LeBrisouBackend/test/fixtures",
+			"/home/erol/nodejs/LeBrisouBackend/plugins",
+			"/home/erol/nodejs/LeBrisouBackend/test",
+			"/home/erol/nodejs/LeBrisouBackend",
+			"/home/erol/nodejs/LeBrisouBackend/plugins",
+			"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-api/handlers",
+			"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-rdbms",
+			"/home/erol/nodejs/LeBrisouBackend/plugins/dictionary-api/handlers",
+			"/home/erol/nodejs/LeBrisouBackend/plugins",
+			"/home/erol/nodejs/LeBrisouBackend/test/fixtures",
+			"/home/erol/nodejs/LeBrisouBackend/test/fixtures/update",
+			"/home/erol/nodejs/LeBrisouBackend/test/fixtures/add",
+			"<project>",
+			"/home/erol/python/zato_projects/aCouchProject/models",
+			"/home/erol/python/zato_projects/aCouchAPI/src/models"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Float",
+			"crcl.models.base",
+			"\"    \"",
+			"\" +\"",
+			"Language",
+			"City",
+			"fetchAll",
+			"\"",
+			"Countries",
+			"languages",
+			"one",
+			" +\"",
+			"\"",
+			"Country",
+			"countries",
+			"countryId",
+			"out_name",
+			"_lcrc",
+			"puzzledge.eu",
+			"self",
+			"version",
+			"Date",
+			"add",
+			"checkDuplicateId",
+			"Antonym",
+			"Synony",
+			"      Lab.expect(result.result[0].createdAt).to.be.ok\n",
+			"      Lab.expect(result.result[0].createdAt).not.to.be.ok\n",
+			"Lab.expect(result.result[0].createdAt).to.be.ok",
+			"      Lab.expect(result.result[0].createdAt).to.be.ok",
+			"\"timestamps\": true",
+			"response",
+			"rep",
+			"result",
+			"response",
+			"error",
+			"./getSrv",
+			"./insertSrv",
+			"server = new Server(false, __dirname + 'LeBrisou.sqlite').getServer()\n",
+			"Server = require(\"./test_srv\")",
+			"Server = require('./test_srv')",
+			"Server = require('./test_srv)",
+			"server = new Server().getServer(false, __dirname + 'LeBrisou.sqlite')",
+			"server = new Server().getServer()",
+			"server = new Server.getServer()",
+			"db",
+			"country",
+			"console",
+			"examples",
+			"true or false",
+			"boolean",
+			"'],\n",
+			"'true or false'",
+			"2005",
+			"already",
+			"antonym",
+			"synonym",
+			"19",
+			"async",
+			"example-definition-lema-pos",
+			"      var payload = options.payload",
+			"console.log",
+			"console",
+			".db",
+			"db",
+			"db_plugin",
+			"\"",
+			"db_plugins",
+			"console",
+			"console.log",
+			"config='/config/config-prod'",
+			"config='/config/config-dev'",
+			"countries",
+			"'",
+			"\"",
+			"console.log",
+			"dialect",
+			":",
+			"dialect",
+			"Sequelize",
+			"dialect",
+			"route",
+			"Lab.expect(result.error).to.be.true",
+			"'",
+			"\"",
+			"limit",
+			"req.",
+			"models",
+			"db_plugin",
+			"\"",
+			"error = require('./_error_util')",
+			"return",
+			"errorHandler",
+			"errorHandler.sendError",
+			"errorHandler.create",
+			"add",
+			"word",
+			"word.set",
+			"definitions",
+			"word",
+			"failAction: errorHandler.validation,",
+			"source",
+			"err",
+			"19",
+			"errorHandler.create",
+			"errorHandler.sendError.*",
+			"throw",
+			"errorHandler.create",
+			"errorHandler.*",
+			"errorHandler.craft",
+			"query",
+			"request",
+			"=",
+			"rep",
+			"LeBrisouBackend",
+			"erol",
+			"language",
+			"word",
+			"params",
+			"wordId",
+			"requests",
+			"console.log",
+			"_eventsFilter",
+			"console.log",
+			"console",
+			"_subscriberTags",
+			"settings.requests",
+			"show"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"commons.base",
+			"\"\"",
+			"'",
+			"\"",
+			"'",
+			"5431.9",
+			"./servers/getSrv\n",
+			"./servers/insertSrv\n",
+			"server = new Server.getServer()\n",
+			"Server = require('./getSrv')",
+			"Server = require('getSrv')",
+			"server = new Server(false, __dirname + 'LeBrisou.sqlite').getServer()",
+			"server = new Server().getServer(false, __dirname + 'LeBrisou.sqlite')",
+			"server = new Server().getServer()",
+			"'",
+			"",
+			"'",
+			"error = require('./utils').error",
+			"error",
+			"",
+			"error",
+			"",
+			"error",
+			"",
+			"error",
+			"\"/api\"",
+			"\"/\"",
+			"\"/api\"",
+			"/",
+			"PUT",
+			"",
+			"req.log(['dictionary-api', '$1', 'query'],",
+			"",
+			"req.log(['dictionary-api', '$1', 'query'],",
+			"req.log(['dictionary-api', 'info', 'query'],",
+			"req.log(['dictionary-api', 'info', 'add'],",
+			"req.log(['dictionary-api', 'error', 'add'],",
+			"req.log(['dictionary-api', 'debug', 'add'],",
+			"req.log(['dictionary-api', 'add'],",
+			"",
+			"scope",
+			"console.log",
+			"/crcl/resource",
+			"crcl/resource",
+			"",
+			"['sql']",
+			"open(config.",
+			":",
+			"",
+			"5",
+			"2",
+			"7",
+			"6",
+			"1",
+			"12",
+			"",
+			"Ã ",
+			"{   \"id\":\"$1\",",
+			"{    \"id\":\"$1\",",
+			"{\"id\":\"$1\"",
+			"{    \"id\":\"$1\"",
+			"{\"id\":$1",
+			"native_name",
+			"'",
+			"account",
+			"cli_acouch",
+			"x",
+			"JsonRpcException",
+			"ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci",
+			"ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;",
+			"innoDB",
+			"InnoDB",
+			"User",
+			"preference",
+			"Preference",
+			"user",
+			"User",
+			"user",
+			"User",
+			"preference",
+			"Preference",
+			"preference",
+			"Preference",
+			"user",
+			"User",
+			"user",
+			"preference_id",
+			"aCouch",
+			"DB_",
+			"db",
+			"global $logger;\n        $logger",
+			"global $logger;\n    $logger",
+			"global $logger;\n$logger",
+			"unicode_ci",
+			"$this->logger",
+			"fetch",
+			"$this->args",
+			"$args",
+			"args->",
+			"entity",
+			"occasion",
+			"Occasion",
+			"EntityOccasion",
+			"1000",
+			"700",
+			"color1",
+			"00AA00",
+			"AAAA00",
+			"#AAAA00",
+			"#00AA00",
+			"Expresiones regulares",
+			"loupe",
+			"who",
+			"img",
+			"coords",
+			"jpg",
+			"d"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "crcl/services/crcl_countries.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6875,
+								6875
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2028.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "commons/base.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								584,
+								584
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "crcl/models/language.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 800,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								526,
+								526
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 2.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "crcl/models/country.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1882,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 144.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "aCouchProject.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"<html>"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/nodejs/LeBrisouBackend/LeBrisouBackend.sublime-project"
+			],
+			[
+				"as",
+				"~/asm/http_server/asm_http_server.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

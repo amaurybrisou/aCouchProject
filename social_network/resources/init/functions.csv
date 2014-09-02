@@ -1,0 +1,10 @@
+CREATE OR REPLACE FUNCTION DeleteAccounts()
+RETURNS void AS '
+DELETE FROM email m
+USING account a, deletion d
+WHERE a.deletion_id_fk IS NOT NULL
+AND d.effective_date < now();
+DELETE FROM deletion d
+WHERE d.effective_date < now()
+'
+LANGUAGE 'sql';

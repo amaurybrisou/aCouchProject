@@ -1,0 +1,12 @@
+#!/bin/sh
+# -*- coding: utf-8 -*-
+#zato quickstart create . postgresql localhost 5432 erol zato localhost 6379 --verbose
+while [ 1 ];
+do
+EVENT=$(inotifywait --format '%e' aCouch*)
+[ $? != 0 ] && exit
+[ "$EVENT" = "ATTRIB" ] && echo 'file modified!' && cp aCouch* ../../aCouchServer/server1/pickup-dir #&& clear
+done
+
+#additionaly delete pyc files
+rm -rf *.pyc
